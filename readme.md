@@ -2,7 +2,7 @@
 
 This repository is a collection of LeetCode problem solutions.
 
-Also severs a tracker of my LeetCode progress.
+Also severs as a tracker of my LeetCode progress.
 
 ## `07_reverse_integer`
 

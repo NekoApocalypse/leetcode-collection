@@ -16,3 +16,8 @@ Trivial problem.
 
 Solution: [Here](08_myAtoi/notes.md)
 
+## `09_isPalindrome`
+
+Trivial problem.
+
+Solution: [Here](09_isPalindrome/notes.md)

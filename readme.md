@@ -9,3 +9,10 @@ Also severs as a tracker of my LeetCode progress.
 Trivial problem.
 
 Solution: [Here](07_reverse_integer/notes.md)
+
+## `08_myAtoi`
+
+Trivial problem.
+
+Solution: [Here](08_myAtoi/notes.md)
+
